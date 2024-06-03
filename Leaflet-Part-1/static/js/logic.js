@@ -74,4 +74,3 @@ let myMap = L.map("map", {
     // Adding the legend to the map
     legend.addTo(myMap);
   });
-  
